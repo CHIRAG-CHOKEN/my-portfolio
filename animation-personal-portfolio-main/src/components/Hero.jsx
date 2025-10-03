@@ -40,7 +40,7 @@ export const Hero = () => {
             variants={fadeInUp}
             whileHover={{ scale: 1.02 }}
           >
-            Chirag choken
+            Kritee Shukla
           </motion.h1>
           <motion.h2 className="hero-subtitle" variants={fadeInUp}>
             Creative Developer & Designer
